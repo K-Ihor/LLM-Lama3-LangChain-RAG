@@ -1,0 +1,682 @@
+ATN X-Sight 5 USER GUIDE
+
+Preparing the Device
+Unpacking
+The following steps must be performed before using the device.
+
+Open packaging box, remove X-Sight 5/5 LRF.
+Verify your box has the following: X-Sight 5 scope, Lens Cover, Sunshade, Rubber Eyecup, IR Illuminator, Rings, Charging Cable, IR Illuminator battery, IR illuminator battery charger.
+Inspect the device for damage to optical surfaces, body, eyecups, operation buttons, etc.
+Ensure that all optical surfaces are clean and ready for use.
+NOTE:
+If any accessories are missing or broken contact ATN’s Customer Service at 1.800.910.2862.
+
+Charging the device
+The device is equipped with a USB (type C) port. You will find it under the rubber cap on the right side of the device (caps are marked with appropriate icon).
+We have included a USB (type C) charging cable with your scope. Plug the cable into a USB wall charger that has an output of 2 amps (Wall Charger not included).
+Charge your scope for 6 hrs using a 2 A USB wall charger. Note using a wall charger with lower amperage will take longer to charge your scope.
+
+Recommended charger is 2 A USB charger.
+Battery charging time (from 0 to 100%) is 6 hours with 2 A USB charger.
+Battery run time is 14 hours on a single charge.
+
+
+MicroSD and USB C Ports
+The device is equipped with a microSD Card and USB (type C) ports. You can find them under the rubber caps on the right side of the device (we marked the caps with appropriate icons).
+To open the rubber port cover, gently lift the rubber cover and move it out of the way.
+NOTE:
+Make sure that the device is turned off before inserting the formatted microSD Card into its assigned port.
+
+Always format a new microSD card before using.
+Insert microSD card as shown.
+Use a thin object (small coin, paper clip) to lock the microSD card in place after inserting it into the slot.
+Return the cover to its original position.
+NOTE:
+There is only one correct direction to insert the microSD Card.
+Do not force the microSD Card into the port doing so may cause damage to both the scope and the card itself.
+
+To remove the microSD Card from the port, push the card slightly in using the same thin object you did before. When the card pops up a few millimeters, pull the card out with your fingers or tweezers.
+NOTE:
+If you are going to record video, the microSD Card should be a Class 10 V30 (30 Mb/sec) or faster and have capacity from 4 to 64 Gb that is an HC type SD card.
+
+Firmware Update
+Before operating your device, update the firmware to the latest version. All firmware updates can be found on at https://www.atncorp.com/firmware.
+To receive a notification concerning new firmware updates, please register your device on our website. An email notification will be sent when a new firmware update becomes available.
+To update the firmware you will need a microSD Card and fully charged internal battery.
+
+NOTE:
+In the event of a power failure during an update, the device may crash. This will corrupt the system files and the device will need to be sent back to the ATN factory for service.
+To ensure your zero coordinates are not lost, write down your zero coordinates before continuing to update the firmware.
+
+Update the new firmware as follows:
+
+Download the ***.bin file from https://www.atncorp.com/firmware and copy to your microSD Card — root directory.
+Insert the card into the scope.
+Turn ON the scope.
+In the “Firmware Update” dialog box select “Yes” to start the update.
+When the update counter reaches “100%” the device will automatically restart.
+Once the device is powered up it will enter self configuration mode.
+After completing it will automatically restart.
+Motion Sensing platform will be configured when first turned on.
+Once the Firmware update completes, please do a factory reset before using the product.
+Please delete the Firmware file off of the microSD card after the process is complete. Or the system will try to update the Firmware every time you turn the scope on.
+NOTE:
+If the scope freezes or stops responding to the control panel. Press and hold the Power button for 15 seconds to reboot the scope.
+
+ON / OFF
+To TURN ON the device, press and hold the POWER button until you see the ATN splash screen.
+To TURN OFF the device, press and hold the POWER button, until “Shut down the device?” appears in the dialog box. Choose “Yes” to turn off.
+If the scope freezes or stops responding to the control panel. Press and hold the Power button for 15 seconds to reboot the scope.
+
+
+Using your Keypad
+Up button: On the home screen adjusts zoom in level. Pressing and holding the Up Button will engage smooth zoom in. Short Press of the Up Button will engage Step Zoom in. Up Button is also used to navigate in the carousel and system menu.
+Down button: On the home screen adjusts zoom out level. Pressing and holding the Down Button will engage smooth zoom out. Short Press of the Down Button will engage Step Zoom out. Down Button is also used to navigate in the carousel and system menu.
+Left button: On the home screen a Short Press of the Left Button will activate photo capture. A Long Press of the Left Button will switch the mode to Video. Left Button is also used to navigate in the carousel and system menu.
+Right button: On the home screen changes the device display brightness. Right Button is also used to navigate in the carousel and system menu.
+OK button: Using the OK Button opens the Carousel from the home screen and confirms selections in the menu.
+Function 1: When you have the Carousel Open or Menu open, pressing the F1 button will close the Carousel or Menu. When you are on the home screen and your device has an attached LRF, pressing F1 will activate the LRF.
+Function 2: When using your Obsidian 5 device and you are in the environmental settings menu, pressing F2 will allow you to go to the next screen to update the environmental settings.
+
+
+Focusing
+DIOPTER ADJUSTMENT
+By rotating the Diopter Adjustment Ring you will achieve optimal sharpness for your vision. Look through the eyepiece while focusing on the reticle and widgets on the screen.
+NOTE:
+Once the Diopter Adjustment is set to your liking, adjustment will not need to be performed unless another user altered the focus for their needs.
+
+DISTANCE FOCUS
+Rotate the Adjustment Ring, as necessary, to achieve the proper focus at various distances.
+
+Mounting your scope
+The X-Sight 5 has a 3.5-inch eye relief (90 mm), and can be moun­ted using 30 mm mounting rings.
+ATN has provided two standard rings and one L shape ring. The L shape ring is for those instances when you need extra eye relief for certain rifles. First, choose your preference of rings and
+position and mount the bottom portions of your rings to your rail for optimal eye relief. Place the scope on the bottom half of the rings you just mounted, verifying you have sufficient eye relief for your platform.
+Place the top portion of your ring over the mounted bottom portion, make sure the holes align and the screws turn easily. Apply equal torque to all screws with the provided Allen wrench. Make sure your rings are tight on your rifles rail and will not come loose due to recoil.
+
+For mounting the X-Sight 5 on the Picatinny rail:
+
+Loosen the fixing screws on the sides of the mounting rings.
+Place the rifle scope on the Picatinny rail so that the projection of the rail, which is in the base of the ring, enters the recess in the rail.
+Tighten the fixing screws of the mounting rings.
+CAUTION!:
+Be sure your weapon is not loaded. Use safe weapon handling procedures at all times.
+NOTE:
+Please do not over tighten the Fixing Screws when attaching the rings to your rail, we recommend using 30 in-lbs (Nm 3.39).
+
+
+ATN IR850 Infra-Red Illuminator
+BATTERY
+NOTE:
+Please hold the battery tube (not the flashlight head or neck) when Tightening/loosening the tail-cap.
+
+The IR850 IR Illuminator uses one 18650 battery.
+
+Remove the tail cap unscrewing it until it is free of the body.
+Install the battery in the body, observing proper battery polarity.
+Install the tail cap back on the body.
+
+MODES
+The IR850 has three stage output — Low, Medium and High system. Low at 50%. Medium at 75%. High at 100%.
+
+BRIGHTNESS SETTINGS
+The factory preset modes control the brightness of the IR illuminator.
+Three modes are designated on the head after the focusing ring. The modes are distinguishable by the size of the dot. The small dot indicates the lowest power output setting. The medium dot indicates the medium output power setting. The large dot indicates the strongest output power setting.
+To turn on/off the IR illuminator push the button on the tail cap.
+To switch the modes rotate the setting ring behind the focus ring of the IR illuminator.
+
+FOCUS
+Turn the light on maximum output and shine it on a wall 8~10 m away. To focus the beam, hold the head in one hand and turn the neck section with your other hand turn clockwise or counter-clockwise.
+
+MOUNT
+Attach the IR850 to adjustable mount as follows:
+
+Unscrew the two screws.
+Place the insert in the mount.
+Insert the illuminator into the mount with insert.
+Secure the two screws using an Allen wrench. Do not apply excessive torque.
+
+ALIGNING THE IR BEAM
+In order to Align the IR850 illuminator to your scope. After the IR850 is assembled into the mount. Place it on the X-Sight 5 side accessory rail or on your rifles accessory Picatinny rail. Once mounted securely, slightly loosen the two screws on top of the mounting ring.
+While looking through the X-Sight 5 at night with night mode activated. Move the IR850 around in the mount until you see the IR light covering your entire field of view in the X-Sight 5 view finder. Once you have adjusted your IR light to be aligned with your X-Sight 5 FOV, gently tighten the two screws on top of the mounting ring with an Allen wrench.
+
+MAINTENANCE
+To prevent wear and retain water-resistance it is a good idea to lubricate the threads and o-rings if they become dry.
+
+TROUBLESHOOTING
+Light dimming
+Battery may be faulty. Try another fully charged battery.
+Compass Calibration
+When the compass needs to be calibrated the word “CAL” appears instead of the Compass Scale. To calibrate you should rotate the device on three axis as pictured.
+NOTE:
+After calibrating the device please remember that the compass will work best when holding the X-Sight 5 parallel to the ground.
+
+Other possible abbreviations:
+
+ERR — an error was detected;
+SMF — your device is under Strong Magnetic Field;
+UPD — your firmware needs to be updated.
+
+
+Interface
+Homescreen
+The first screen you’ll see after turning on the device is the Homescreen. It consists of Scales, Status Bar icons and different Information Widgets.
+SCALES
+E-Compass Scale shows yaw angle, based on e-Magnetometer data.
+Roll Scale shows rifle cant, based on internal 3D Gyroscope.
+Pitch Scale shows rifle inclination, based on internal 3D Gyroscope.
+STATUS BAR
+Displays information about the current state of the system. Icons that are inactive become invisible when not in use, and only the important information will appear.
+
+Battery — shows how much energy is left in the system.
+Micro SD Card — shows the presence or absence (red icon) of memory card.
+Ballistic Calculator, Bluetooth, and WiFi — shows when the function is enabled.
+
+WIDGETS
+Interface elements will appear as widgets that will provide access to useful information. There are several types of widgets:
+
+icons without value are used for mode displaying (Photo and Video Modes);
+only numerical value (Detailed Roll and Pitch Values);
+icons with a numerical value: Range, Zoom, Reticle Correction, Wind Speed.
+
+Display widgets can be disabled from the System Settings.
+To enter System Settings you should click the OK button from Homescreen to access the Shortcut Carousel.
+Select the wrench icon with RIGHT or LEFT buttons and push the OK button to enter the System Settings menu.
+Select the Display tab with RIGHT button and choose subcategory Display Widgets with the Keypad buttons.
+Press the OK button to select the Display Widgets. Use the Keypad buttons to change from Extended to Minimal. Press the FUNCTION 1 button to escape the menu.
+
+Main Operations
+Main Operations
+
+ZOOM LEVEL
+While on the Homescreen use the UP and DOWN buttons to Increase or Decrease zoom.
+Pressing and holding the UP or DOWN buttons will engage Smooth Zoom In or Out. A quick press of the UP or DOWN buttons will give you step zoom levels.
+
+NOTE:
+When the device is activated for the first time, you need to configure the lens option in the pop-up window before zooming. Please refer to System Settings→Settings→Device Type.
+
+Main Operations
+
+TAKING PHOTOS OR VIDEOS
+Press and Hold the LEFT button to switch modes in order to take Videos or Photos. A short PRESS of the LEFT button will activate or stop Video recording. Or if you are in Photo mode pressing the Left button will take a still image.
+
+NOTE:
+Recording will automatically stop when the memory card is full or the battery is out of power.
+
+Main Operations
+
+SHORTCUT CAROUSEL
+Pressing down on the OK button opens the Shortcut menu.
+Press the FUNCTION 1 button to exit the Carousel or Menu.
+
+Modes
+The X-Sight 5 has 2 modes of ope­ration: basic and advanced.
+Basic Mode has the following feature options:
+
+NIGHT MODE OFF/ON
+SETTINGS
+ZEROING
+DISTANCE ENTRY
+ADVANCED SHORTCUT
+Advanced Mode has the following feature options:
+
+NIGHT MODE OFF/ON
+ENVIRONMENT
+RAV OFF/ON
+RETICLE SELECTION
+WIFI OFF/ON
+ADVANCED SHORTCUT OFF/ON
+DISTANCE ENTRY
+ZEROING
+SETTINGS
+BALLISTIC CALCULATOR OFF/ON
+Shortcut Carousel
+The Carousel is your access to a number of shortcuts that will allow you to quickly access your scope’s features. Click the OK button from Homescreen to access the Carousel on the bottom of your Homescreen.
+Buttons highlighted in Red are the only ones that activate a particular shortcut.
+
+Use the LEFT & RIGHT buttons to move bet­ween functions, except with the group of ON/OFF switches (WiFi, Bluetooth, Ballistic Calculator, RAV), use Keypad buttons between switches.
+To turn a particular function ON or OFF, you should click the OK button while that function is selected. Example — WiFi.
+
+Shortcut Carousel
+
+ZEROING
+Sighting in your scope has never been easier with One Shot Zero. Take a shot adjust your reticle and you are good to go.
+
+Shortcut Carousel
+
+NIGHT MODE
+Switch between Day and Night Mode.
+
+Shortcut Carousel
+
+DISTANCE ENTRY
+Manually input or adjust the distance to the target to be used by the Ballistic Calculator.
+
+Shortcut Carousel
+
+ENVIRONMENT
+Allows for input of various environmental data to improve ballistic correction, such as wind speed and direction.
+
+Shortcut Carousel
+
+SETTINGS
+Allows access to various system options and adjustments.
+
+Shortcut Carousel
+
+WiFi
+Allows you to connect to your smart phone or tablet; password is atnsmarthd.
+
+Shortcut Carousel
+
+BALLISTIC CALC
+Allows you to have the scope automatically adjust your reticle POI for bullet drop, based on the ballistic information you input into the scope.
+
+Shortcut Carousel
+
+RAV (Recoil Activated Video)
+Allows you to record your hunt without having to press the record button.
+
+Shortcut Carousel
+
+RETICLE SELECTION
+Allows you to change the reticle and its color.
+
+Shortcut Carousel
+
+ADVANCED SHORTCUT
+When disabled, the carousel items are reduced to Basic Mode items.
+
+Using System Settings
+To enter the System Settings, open the Shortcut Carousel by pressing the OK button. Select the wrench icon with RIGHT or LEFT buttons.
+
+Push the OK button to enter the menu.
+The System Settings consists of a Tab Bar at the top of the screen, list of subcategories in the center and Help Information (key for the button functions) at the bottom.
+In order to Close the Menu press the FUNCTION 1 button on your Keypad.
+Movement between the tabs is carried out using the LEFT and RIGHT buttons.
+Each tab includes subcategories. To select a particular subcategory you should use Keypad buttons and press the OK button to select it.
+
+To change a particular value, follow the next few steps. Select the subcategory you need with Keypad buttons.
+Press the OK button to select a particular value (once selected it will turn red).
+
+Change the value with the Keypad buttons.
+To select a new value, press OK button to confirm the change.
+
+Functions
+Night Mode
+NIGHT MODE
+To switch between Day and Night Mode, choose NIGHT MODE in Shortcuts.
+The shortcuts allow you quick access to the Carousel that contains your scope’s features. Just click the OK button to access the Carousel.
+
+Buttons highlighted in Red are the only ones that activate a particular shortcut.
+Movement between the items is carried out using the LEFT & RIGHT buttons.
+NOTE:
+Remember that turning on Night Mode during daylight will not harm your device; however, you may not be able to see anything due to the image being too bright.
+
+Depending on the ambient light conditions you may need to adjust the Night Sensitivity setting.
+Press the OK button from the Homescreen and use the RIGHT or LEFT buttons to select the Wrench Icon. Press the OK button to enter System Settings.
+Select the Video Category with the RIGHT button. Use the DOWN button to navigate to Night Sensitivity.
+Press the OK button to select this subcategory. Use the UP and DOWN buttons to Select High or Low mode. Press the OK button to confirm your selection. Press the FUNCTION 1 button to exit the Menu.
+NOTE:
+For the best video quality while recording in Night Vision mode. We suggest having your Light Sensitivity settings on Low.
+
+Photo Mode
+Press the LEFT button while staying on the Homescreen to TAKE A PHOTO.
+You must have a microSD card inserted in the device for this feature to work. All files will be stored on the microSD card.
+
+Photo Mode
+
+PHOTOS
+Allows you to take one photo at a time.
+
+Video Recording
+IMPORTANT NOTE:
+In order to record video in 4K you must use a Class10 V30 micro SD card with a min write speed of 30 mb/s or higher.
+NOTE:
+You must have a mic­roSD card inserted in the device for these features to work.
+
+All files will be stored on the microSD card.
+The scope allows you to record videos in two modes.
+
+NORMAL
+The default mode. While recording the Counter widget appears. In order to Start recording video. While on the Homescreen, press and hold the LEFT button to switch to Video Mode. Then a short press of the LEFT button to activate video recording. Press the LEFT button once more to Stop recording video.
+
+Blend Mode (Simple/Advanced)
+You can record your videos in two ways.
+Simple Mode: In simple mode you will see basic info displayed on the Video: Date/Time, ATN Logo, and Distance.
+Advanced Mode: In Advanced mode besides the Basic info, you will also see Compass, pitch and roll, ballistic parameters (when Ballistic Calculator is On).
+NOTE:
+It may be best to turn OFF the Microphone in conditions of extreme wind.
+
+You can turn on the microphone and switch the quality of the video in the System Settings (Video and Recording Categories).
+
+To Adjust Video Recording Settings:
+
+Open Shortcut Carousel by pressing the OK button and select the wrench icon with RIGHT or LEFT buttons.
+Push OK button to enter the menu.
+Using the Keypad buttons select Video. Press the OK button to select it.
+Use the DOWN button to select Video Resolution. Press the OK button to select it.
+Change the setting with Keypad buttons and press the OK button to confirm the change.
+All files will be stored on the microSD card.
+
+Microphone
+To Turn On/Off the Microphone select the Recording Category and navigate to Microphone with your keypad. Select Microphone with the OK button and use the UP and DOWN buttons to change the setting. Confirm your selection with the OK button, press FUNCTION 1 to escape to Homescreen.
+
+Video Recording
+
+RECOIL ACTIVATED VIDEO (RAV)
+When you set your video record to RAV mode (from Shortcut Menu), the system buffers everything your scope sees.
+While you are in this mode, the RAV widget appears and then after starting to record the Time Counter appears.
+
+After activating the RAV function in the Shortcut Carousel, return to the Homescreen. Continue the activation process by pressing the LEFT button that activates Video. Also, make sure you see the RAV icon on the Home screen upper right corner. Press the LEFT button again to stop Video recording.
+
+When a shot is fired and your scope experiences recoil (some airguns may not provide enough recoil for RAV to be activated). The scope will record video prior to the shot being taken, the moment of, and some time after. Exact settings may be adjusted in the System Settings.
+
+RAV CALIBRATION
+RAV (Recoil Activated Video) is a fantastic feature that allows you to set your scope to record your video when you fire your weapon. But as there are many types of calibers and platforms our standard RAV sensitivity may not be enough.
+IE small calibers that have little recoil, which fails to activate RAV. With this option you are able to adjust the sensitivity of your scope in order for it to recognize the light recoil and activate RAV.
+NOTE:
+For best results you should only Calibrate RAV at a shooting range. ATN endorses safe and responsible recreational shooting, and does not recommend RAV calibration at home regardless of state law.
+
+Open the Shortcut Carousel and navigate to the Wrench Icon. Scroll to Profile/Zero and then Select Current. Use the Down Button to navigate to RAV calibration. Press the Right Button to enter RAV calibration. You should see a velocity rating in the upper left corner ( __. __ ft/s or m/s ) followed by “1, 2, 3”. The First circle is blinking denoting actively searching for input. While having the RAV calibration active fire a round down range. You should see example (9.4 ft/s) or something similar, as it will depend on the caliber and your platform.
+Once you get the first number press the center OK button to save. Repeat this process with only your desired input until there is a check mark on all numbers. If an error has been encountered either with ammunition, loading, or any other possible malfunction, simply press the FUNCTION 1 button to leave RAV calibration. Afterwards, please repeat the process. Once this has been accomplished your scopes RAV is calibrated to your caliber, grain, velocity, and platforms felt recoil.
+By following this process, you should be able to use RAV with the ammunition and platform used during the calibration process.
+NOTE:
+We have conducted tests to 22 Air rifle and 22 Long Rifle successfully increasing the sensitivity of RAV.
+
+Zeroing
+NOTE:
+Before Zeroing your scope, please make sure the correct lens type is selected. You can check this by going to the System Settings and selecting Settings. You will see the subcategory Device Type. Please make sure you select the lens type of your scope.
+This lets the system know which Scope you are actually using (example: X-Sight 5 3-15 or 5-25).
+
+To Zero in your scope you will need to go to the Profile/Zero section of the System Settings, or select it from the Shortcut Carousel.
+To enter the System Settings, open Shortcut Carousel with OK button and select the wrench icon with RIGHT or LEFT buttons, then enter the PROFILES/ZERO tab and select Current or Other, then select Zero reticle. Or select the Zero Reticle shortcut from the Shortcut Carousel and push the OK button to enter the menu.
+
+Before you begin the Zeroing process you will need to either create a new Profile or utilize an existing one. We recommend to create a new one to understand the process better.
+Under the Profiles/Zero Category you will find Current, Other, Import from SD card, Export to SD card. Select Other. There you will see Profile 1 and Create New Profile. You can select Profile 1 and edit it, or create a new one and make changes to it. Once you select a profile, press the OK button to load it. Once the profile is loaded, it becomes your current profile.
+
+Profiles are primarily used in order to utilize your scope on various weapons. This way, when moving your scope from one gun to the next, you can simply select the Profile that you have already created for the particular gun you are using. Multiple profiles are also used to zero in the scope, on the same gun, but at different ranges. For example, one Profile may be called AR 50 yards and another AR 200 yards. Allowing you to create two separate profiles to better fine tune your shooting solutions for both shorter and longer range shooting.
+In order to change the profile name to what you want, open the ATN Connect 5 app and connect your Phone/Tablet to your scope.
+
+To zero your rifle with the ATN device, follow the next few steps.
+Zeroing Scope:
+
+In the System Settings, Select the Profiles/Zero Tab. The main Subcategories of the Profiles/Zero are Current, Other, Import from SD card and Export to SD card. Select Current, by pressing the OK button. There you will see Zero Reticle.
+We suggest you fill out all the ballistic info, to the best of your ability, before proceeding to Zero. This will save you time when you want to use the Ballistic Calculator at a later time.
+
+Proceed to Zero the Reticle. Press the OK button to select Zero Reticle. You will see on your screen a cross hair reticle. While keeping the gun as steady as possible, fire a round. Use the key pad to move the Red cross hair to the point of impact. While keeping the White crosshair in the same place you where aiming. Once you have placed the Red crosshair on the POI, press the OK button. A dialogue box will appear with options. Select Save & Exit.
+
+NOTE:
+Although you may not need more then one shot to Zero in your scope, we do recommend that you repeat the process several times to make sure that you truly are Zeroed in. As you gain experience in Zeroing in your scope it should take you no time at all to Zero it.
+
+NOTE:
+In order to fine tune your zero, select the Zero Reticle once more. Press the OK button and select Zoom. Zoom in all the way and fire the weapon. If your POI is not where you aimed, move the Red reticle to the POI and Exit & Save. This will ensure your POI is the same on optical (base) and maximum magnification.
+
+NOTE:
+It is normal for your scopes X/Y coordinates to change when switching resolutions. This will apply to not just changing the resolution while in day mode but also when switching from day mode to night mode as the resolutions are different. The reason you will see the coordinates change is due to how many pixels are being used by your scope in that setting. This does not affect your zero when switching resolutions.
+When writing down your X/Y coordinates for future use, write down the resolution you are in as well.
+
+Laser Range Finder models
+Using the integrated Laser Range Finder will give you precise measurement of distance to target, up to 1000 yards.
+
+NOTE:
+To have this feature enabled you must activate Advance Mode settings.
+
+NOTE:
+Once the distance is measured, the value will be automatically integrated into your Ballistic Calculator.
+
+While on the Homescreen Press the FUNCTION 1 button to activate the Laser Range Finder. Keep the scope as steady as possible while having the Range Finder Reticle on your Target. Once the reticle of the LRF disappears, the measurement is done. Your Range to target will be displayed in the center bottom of your Homescreen.
+
+Distance entry
+Allows you to input or correct the distance manually. Choose the Distance Entry option to launch this function.
+
+Change distance value using the Keypad buttons. To accept the new distance, press the OK button.
+
+Ballistic Calculator
+The X-Sight 5 has a fully integrated Ballistics Calculator that enables your scope to seamlessly adjust its point of impact. The first step in utilizing this function requires you to enter all relevant information into the Profile that is being used.
+
+NOTE:
+To have this feature enabled you must activate Advance Mode settings.
+
+NOTE:
+If you do not know all or part of this info (example: Initial Velocity), we recommend that you contact the manufacturer of the ammunition and/or the weapon that you are using. Generally this info should be found on the manufacturer’s website.
+
+Once your profile has been setup, you are ready to activate the Ballistic Calculator on your sight. Open the Shortcut Carousel and follow the instructions in this section.
+You will need to use your Keypad buttons, to find the Ballistic Calculator bullseye icon. If this function is off (indicated by a diagonal line running through the icon), you will need to turn it on by pressing the OK button while having the icon selected. You will see the diagonal line disappear and the Ballistic Calculator icon will appear in the top right corner of the screen.
+
+Profiles which are not in use are located in the Other section. You can use an existing profile or create up to 6 new user profiles.
+To edit a Profile,select it (highlighted in red) and press the OK button.
+Choose the action you want to perform; Load, Copy (Duplicate) or Delete the selected profile.
+
+ENVIRONMENT
+
+NOTE:
+To have this feature enabled you must activate advance mode settings.
+
+There are a number of Environmental elements that may be entered to increase the precision of your shots.
+
+Wind:
+Wind strengths and direction are by far the most important of the group, especially during medium to heavy winds. We highly recommend that if you plan to shoot at ranges over 300 yards. Take wind readings and enter the information into your sight. Both wind speed and wind direction are needed if you plan to make accurate shots. You can enter the information through the Environment shortcut or through your mobile device using the ATN Connect 5 App with a WiFi connection to your scope, whichever you find easier.
+
+Humidity:
+Humidity must also be entered through the Environment shortcut or by utilizing the ATN Connect 5 App.
+
+
+Barometer Pressure, Altitude and Temperature:
+Pressure, Altitude and Temperature need to be set manually in the environmental settings of your scope, in order to provide the correct values for the sight calculations.
+In order to receive the best possible ballistic calculations, you need to enter the environmental values as correctly as possible. In order to change the setting press the OK button to enter the Shortcut Carousel. Use your LEFT arrow button to scroll to the Environment Icon. Press the OK button to enter it. Use the UP and DOWN buttons to adjust wind speed. Use the RIGHT and LEFT buttons to adjust the wind direction. To adjust other environmental settings press the FUNCTION 2 button. Press the OK button to confirm your changes. Press the FUNCTION 1 button to escape the Menu.
+
+Other Data Collected:
+The angle of your scope, as in relation to your target, is also noted and the Ballistic Calculator takes the information into its calculations.
+
+RANGING IN ON YOUR TARGET
+Clearly, the number one priority to achieve accuracy in long range shooting is to know the range to your target.
+The Ballistic Calculator will make your adjustments for you, but only after you have entered the distance to your target.
+Your sight offers several ways to accomplish this task.
+You can use your Builtin Laser Range Finder on those models that offer this option.
+You can enter the distance manually if you know the range to target.
+Or you can use the Laser Ballistics 5 Laser Range Finder to transmit that information.
+
+Reticle Style Adjustment
+You can manage reticle RETICLE SELECTION menu.
+
+To enter the RETICLE SELECTION menu, open the Shortcut Carousel by pressing the OK button and select the RETICLE SELECTION menu with the LEFT and RIGHT buttons.
+Press the OK button to enter the menu.
+To change the Reticle Shape press RIGHT or LEFT button.
+Select the preferred Reticle style that suits your preference.
+You can change Reticle Color to whatever color suits your preference.
+
+Movement between the colors is carried out using the UP and DOWN buttons. Press the OK button to accept your shape and color.
+
+
+System Settings
+
+Video
+In the Video Category you will find options for Video resolution and Night sensitivity.
+Video Resolution can be changed to these modes: 4K @ 30/60/120/240 fps.
+Night sensitivity can be adjusted to these modes: Hight/Low.
+IMPORTANT NOTE:
+In order to record video in 4K you must use a Class10 V30 micro SD card with a min write speed of 30 mb/s or higher.
+
+Recording
+BLEND MODE provides two options on how your Videos will be Recorded.
+
+Simple Mode. In simple mode you will see basic info displayed on the Video: Date/Time, ATN Logo, and Distance.
+Advanced Mode. In Advanced mode besides the Basic info, you will also see Compass, pitch and roll, ballistic parameters (when Ballistic Calculator is On).
+
+MICROPHONE — sound recording (ON/OFF).
+FORMAT SD CARD — after you choose this subcategory, you’ll see a pop-up window asking you about formatting.
+
+RECOIL ACTIVATED VIDEO
+Record Before Shot — the time before pulling the trigger (5 – 30 sec).
+Record After Shot — the time after pulling the trigger (5 – 30 sec).
+NOTE:
+The ATN X-Sight 5 is capable of recording in day mode at 240 fps. This feature allows for postproduction editing for slow motion purposes.
+Please note that the 240 fps mode is available in daytime setting only and it does not improve your image or quality. It should only be used if you plan on doing post production video editing.
+When choosing to use this option, the incorporation of your widgets are absent. Widgets would include reticle, time stamp, and logo that are added during video processing.
+
+Display
+DISPLAY BRIGHTNESS. Gives you a 1 to 5 numerical selection, with 1 being the dimmest and 5 the brightest.
+It is recommended that you use the brightest setting during the day for optimal performance.
+NOTE:
+Keeping the display at maximum brightness and observing static image for extended periods of time could cause slight display burn-in.
+
+DISPLAY WIDGETS — allows you to disable several widgets (Minimal/Extended).
+
+SLEEP MODE — allows you to switch the mode (ON/OFF).
+
+LANGUAGE — English, German, Spanish, Italian, Polish, Bulgarian, French, Ukrainian, Croatian, Czech, Danish, Dutch, Hungarian, Portuguese, Romanian, Finnish, Slovak, Slovenian, Swedish.
+
+RETICLE SELECTION
+
+Shape — you can choose the shape of your Reticle.
+Color — you can choose the color of your Reticle.
+IMPORT RETICLE. You can create a custom reticle for your ATN 5th Generation products and import them into your scope.
+Visit reticle.atncorp.com to create your custom reticle.
+
+Profiles/Zero
+CURRENT
+RAV calibration — allows you to Calibrate your RAV sensitivity for the platform your are using for this specific profile.
+Zero Reticle — allows to enter zeroing mode.
+Drag Function — the flight path and characteristics of bullets divided into types (G1 – G8, GL).
+Ballistic Coefficient — measure of bullet’s ability to overcome air resistance in flight.
+Bullet Weight — influences the kinetic energy of the bullet downrange.
+Muzzle Velocity — is the velocity of the projectile as soon as it leaves the barrel.
+Zero Range — is the range that a firearm is sighted at.
+Sight Height — is referring to the distance between the center of the optics and the center of the barrel.
+OTHER
+
+Profile Name — list of existing profiles.
+Create New Profile — allows to create up to 6 profiles.
+IMPORT FROM SD CARD — import your previously exported profile setting into your current profile.
+
+EXPORT TO SD CARD — export your current profile to your micro SD card to save your profile settings.
+
+ZERO RANGEFINDER
+If your version of the X-Sight is equipped with a LRF, it opens a interface to zero the LRF reticle with the laser beam. It is zeroed at the assembly facility using a special setup, but if the you want to do some corrections to the zeroing, the procedure is as follows:
+
+Open the Shortcut Carousel and turn on Night Mode.
+Go again to SETTINGS → PROFILES/ZERO → ZERO RANGEFINDER and select it.
+The laser of the LRF will start sending pulses constantly and you will be able to see where they hit, depending on the environment illumination and the reflectivity of the objects. If your environment is darker, the laser reflection will be visible further away.
+Using the direction keys, move the reticle of the LRF util you get the laser impulse reflection slightly to the left side of the box and confirm it.
+NOTE:
+It is recommended to perform the zeroing at distances of more than 20-30 m in order to reduce the undesired misalignment at high distances.
+
+SHOT COUNT — the Shot count keeps track of how many times you have shot with this profile.
+
+
+Settings
+UNITS — can be Metric or Standard system.
+
+DATE AND TIME
+
+Clock Source — allows you to choose different types of sources to improve the accuracy (Manual, WiFi).
+Date Format — can be YYYY-MM-DD, MM-DD-YYYY, DD-MM-YYYY.
+Clock Format — form of stating the time (24-hour or 12-hour).
+Date — enter the date.
+Time — enter the time.
+DEVICE TYPE — to make all features work correctly you need to choose the type of lens you have. (Example: 3x stands for 3-15 and 5x stands for 5-25).
+
+ZOOM — allows you to choose different types of zoom (Standard, Extended). Extended Zoom will give an electronic zoom of 10x your optical Zoom. Example: 3-15 in Extended mode becomes 3-30x. However, we would like to caution you that you will begin to see considerable pixelation at such a zoom.
+
+RESTORE FACTORY SETTINGS — allows to reset all the settings to default.
+
+
+Wireless
+WIFI MODE — AP is Access Point and STA is Station which acts like a client.
+
+WIFI INFO — SSID information and Password information. Password “atnsmarthd”.
+
+REMOTE CONTROLLER — Pair/Unpair.
+
+LRF — allows you ta pair an ATN Rangefinder device.
+
+
+BIX Technology
+Laser Ballistics 5 Pairing
+To do this you’ll need to power up the scope and allow it to reach its base reticle screen (home screen).
+After reaching the home screen you’ll next press the OK button on the scopes keypad, which will bring up the carousel menu.
+Press the LEFT arrow button until you reach the wrench icon press the OK button to enter System Settings.
+Using the RIGHT or LEFT buttons navigate to the Wireless tab.
+Press the OK button to enter the Wireless tab.
+Use the DOWN button to scroll to LRF.
+Press the OK button to select this option.
+Use the UP button to select Pair.
+Press the OK button to confirm.
+This will activate Bluetooth searching, which searches for available Bluetooth devices. You’ll notice that the Bluetooth icon in the upper right of the scope’s display has a swirling circle around it indicating the search for the rangefinder.
+Next you’ll need the rangefinder in hand to press the power button on it. Press the power button on the rangefinder twice. This will sync the two devices. You’ll then see “Paired” to the right of “Rangefinder” in the menu. Now you can exit the menus and return to the home screen.
+
+
+X-TRAC 5 Pairing
+Activate the Bluetooth function in your X-Sight 5 scope.
+Enter the system setting from the menu.
+Select the Wireless Category.
+Select Remote Controller.
+Select Pair. You should see a half circle move around in the upper right side of the screen around the Bluetooth Icon.
+Press and hold for 2 seconds the Up Button and the OK Button to Pair the X-TRAC 5 to your ATN compatible device.
+NOTE:
+If you need additional trouble shooting assistance or how to use the X-TRAC 5 please refer to the X-TRAC 5 manual available online.
+
+
+Applications
+Reticle Editor Pro
+ATN Reticle Editor Pro allows you to design, share, export and import different reticles that can be used on the 5th Generation ATN smart weapon scopes.
+Reticle Editor can be accessed on https://reticle.atncorp.com/. There you can log-in using your account and start designing reticles in MILs and in MOA. You can choose to keep them private or to share them with the public. There is a public library and a search engine that will let you navigate through the database of reticles. There are no limits on what can be done with the reticle editor.
+
+
+Reticle Editor Light
+ATN Reticle Editor Light is a part of the ATN Connect 5 app. It lets you design reticles that get rendered instantly on the ATN rifle scopes when the smartphone/tablet is connected to the rifle scope through WiFi. It does not have such in-depth and complicated adjustments as the Reticle Editor Pro, but is entirely capable of creating a reticle with any desired angular divisions in 2-3 minutes, which can be tested right away and edited in seconds. It is a great tool for testing out concepts and quick reticle adjustment in accordance with the scenario of ranging, measuring and shooting.
+
+
+Connect 5
+Control your device and view a live streaming feed with our ATN Connect 5 app.
+After connecting your phone or tablet via WiFi to your ATN device, you can see on your phone/ tablet screen what is shown in your optic’s viewfinder.
+Want to see what you’ve recorded so far? No problem, open up the Gallery and playback your latest adventures. All your photos and videos are right at your fingertips.
+
+Video Studio
+ATN Video Studio allows you to upload, store, and edit media files, including converting them into slow-mo videos. All the data is stored in the native Android or iOS gallery under the folder “ATN Album”.
+You can upload a video file from a SD card (if necessary). If the required file is located elsewhere on the mobile phone, you can tap “Create Slow-mo Video”.
+
+Its functionalities are similar to the native iOS video editor. You have access to a “Trim Video” timeline track bar and a “Slow-mo” timeline track bar. This means you can trim the file to highlight a significant episode and select a period to slow down. After making selections, tap the “EXPORT” button. A “Convert” screen will appear.
+
+To view the result, open the gallery. You will need to navigate to the “ATN Album” folder to play the newly converted video. “Share” allows you to distribute the converted file through various social media platforms.
+The “Select Media” button is for choosing a new media file for conversion.
+In order to download the latest version of the ATN Connect 5 app. Please visit the iOS store or Google Play store. Search for “ATN Connect 5” install the application.
+To connect your ATN device to your smartphone or tablet, you must first enable WiFi on your ATN device via the shortcut carousel. Once enabled, you can access your WiFi settings on your phone or tablet and select the respective SSID (DeviceName_XXXX) to establish the connection. The default password is “atnsmarthd”.
+Once the connection has been successfully established, open your ATN Connect 5 app and your respective device should be shown on the home screen. Tap the button with your device’s name to control your device, access live streaming as well as the gallery from your phone or tablet.
+iOS Application  https://itunes.apple.com/us/app/atn-obsidian-4/id1337731256
+Android Application  https://play.google.com/store/apps/details?id=com.atn.obsidian4K
+
+Warnings and Cautions
+Always remember to turn off the device when it is not in use.
+Do not disassemble, drop, open, crush, bend, deform, puncture, shred, microwave, incinerate, paint or insert foreign objects: it will void your warranty.
+Keep the scope in the provided protective cover when not in use.
+Avoid contact with dust, steam, and gas.
+This product contains natural rubber latex which may cause allergic reactions.
+The scope is a precision electro-optical instrument and must be handled carefully.
+Do not scratch the external lens surfaces or touch them with your fingers.
+CAUTION:
+Failure to follow these safety instructions could result in damage to the device!
+
+
+2 Year product Warranty
+This product is guaranteed to be free from manufacturing defects in material and workmanship under normal use for a period of 2 (two) years from the date of purchase. In the event a defect that is covered by the foregoing warranty occurs during the applicable period stated above, ATN, at its option, will either repair or replace the product, and such action on the part of ATN shall be the full extent of ATN’s liability, and the Customer’s sole and exclusive remedy. This warranty does not cover a product (a) used in other than its normal and customary manner; (b) subjected to misuse; (c) subjected to alterations, modifications or repairs by the Customer or by any party other than ATN without prior written consent of ATN; (d) special order or “close-out” merchandise or merchandise sold “as-is” by either ATN or the ATN dealer; or (e) merchandise that has been discontinued by the manufacturer and either parts or replacement units are not available due to reasons beyond the control of ATN. ATN shall not be responsible for any defects or damage that in ATN’s opinion is a result from the mishandling, abuse, misuse, improper storage or improper operation, including use in conjunction with equipment which is electrically or mechanically incompatible with or of inferior quality to the product, as well as failure to maintain the environmental conditions specified by the manufacturer. This warranty is extended only to the original purchaser. Any breach of this warranty shall be waived unless the customer notifies ATN at the address noted below within the applicable warranty period.
+The customer understands and agrees that except for the foregoing warranty, no other warranties written or oral, statutory, expressed or implied, including any implied warranty of merchantability or fitness for a particular purpose, shall apply to the product. All such implied warranties are hereby and expressly disclaimed.
+
+LIMITATION OF LIABILITY
+ATN will not be liable for any claims, actions, suits, proceedings, costs, expenses, damages or liabilities arising out of the use of this product. Operation and use of the product are the sole responsibility of the Customer. ATN’s sole undertaking is limited to providing the products and services outlined herein in accordance with the terms and conditions of this Agreement. The provision of products sold and services performed by ATN to the Customer shall not be interpreted, construed, or regarded, either expressly or implied, as being for the benefit of or creating any obligation toward any third party of legal entity outside ATN and the Customer; ATN’s obligations under this Agreement extend solely to the Customer.
+
+ATN’s liability hereunder for damages, regardless of the form or action, shall not exceed the fees or other charges paid to ATN by the customer or customer’s dealer. ATN shall not, in any event, be liable for special, indirect, incidental, or consequential damages, including, but not limited to, lost income, lost revenue, or lost profit, whether such damages were foreseeable or not at the time of purchase, and whether or not such damages arise out of a breach of warranty, a breach of agreement, negligence, strict liability or any other theory of liability.
+
+PRODUCT WARRANTY REGISTRATION
+In order to validate the warranty on your product, ATN must receive a completed Product Warranty Registration Card for each unit or complete warranty registration on our website at www.atncorp.com. Please complete the included form and immediately mail it to our Service Center: ATN Corporation, 2400 NW 95 Ave, Doral, FL 33172.
+
+OBTAINING WARRANTY SERVICE
+To obtain warranty service on your unit, End-user must notify ATN service department by calling 800-910-2862 or 650-989-5100 or via e-mail service@atncorp.com to receive a Return Merchandise Authorization number (RMA).
+When returning please take or send the product, postage paid, with a copy of your sales receipt to our service center, ATN Corporation at the address noted above. All merchandise must be fully insured with the correct postage; ATN will not be responsible for improper postage or, missing or damaged merchandise during shipment.
+When sending product back, please clearly mark the RMA# on the outside of the shipping box. Please include a letter that indicates your RMA#, Name, Return Address, reason for service return, Contact information such as valid telephone numbers and/or e-mail address and proof of purchases that will help us to establish the valid start date of the warranty. Product merchandise returns that do not have an RMA listed may be refused or a significant delay in processing may occur.
+Estimated Warranty service time is 10-20 business days. End-user/customer is responsible for postage to ATN for warranty service. ATN will cover return postage/shipping to continental USA end-users/customers after warranty repair only if product is covered by aforementioned warranty. ATN will return product after warranty service by domestic UPS ground and/or domestic mail. Any other requested, required or international shipping method the postage/shipping fee will be the responsibility of the end-user/customer.
+
+
+
+
